@@ -15,7 +15,11 @@ Launch Kick-off explaining the project - September 2017
 
 Anyone is encouraged to contribute to the project by [forking](https://help.github.com/articles/fork-a-repo) and submitting a pull request. (If you are new to GitHub, you might start with a [basic tutorial](https://help.github.com/articles/set-up-git).)
 
-By contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the [Gnu General Public License v2](http://www.gnu.org/licenses/gpl-2.0.html) or later.
+By contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) or later.
 
 ## License
 
+This landing page is based on:
+-Stellar by HTML5 UP
+-html5up.net | @ajlkn
+-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
