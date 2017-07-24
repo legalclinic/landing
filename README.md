@@ -4,12 +4,12 @@ This application is in launch phase and will be under active development to be m
 
 ## Goals
 
-
-## Requirements
-
-## Usage
+Explaining and setting out the Privacy Register project to vistors.
 
 ## Roadmap
+
+Launch pre-alpha version - August 2017
+Launch Kick-off explaining the project - September 2017
 
 ## Contributing
 
