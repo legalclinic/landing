@@ -125,6 +125,7 @@
 
 	blockquote {
 		border-left: solid 4px;
+		font-family: _font(family-serif);
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}

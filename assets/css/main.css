@@ -1,6 +1,7 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
 @import "https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400";
+@import "https://fonts.googleapis.com/css?family=Source+Serif+Pro:300,400";
 /*
 	Stellar by HTML5 UP
 	html5up.net | @ajlkn
@@ -1261,10 +1262,10 @@ body {
     min-width: 320px; } }
 body {
   background-color: #74b7d4;
-  background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #5B9EBB 15%, #207194 85%);
-  background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #5B9EBB 15%, #207194 85%);
-  background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #5B9EBB 15%, #207194 85%);
-  background-image: url("images/overlay.png"), linear-gradient(45deg, #5B9EBB 15%, #207194 85%); }
+  background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #FFB6A5 15%, #93C7DE 85%);
+  background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #FFB6A5 15%, #93C7DE 85%);
+  background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #FFB6A5 15%, #93C7DE 85%);
+  background-image: url("images/overlay.png"), linear-gradient(45deg, #FFB6A5 15%, #93C7DE 85%); }
   body.is-loading *, body.is-loading *:before, body.is-loading *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -1368,6 +1369,7 @@ sup {
 
 blockquote {
   border-left: solid 4px;
+  font-family: "Source Serif Pro", Georgia, serif;
   margin: 0 0 2em 0;
   padding: 0.5em 0 0.5em 2em; }
 
@@ -1814,15 +1816,15 @@ input[type="radio"]:focus + label:before {
       text-align: center;
       line-height: 2em; }
   .icon.style1 {
-    color: #009ee0; }
+    color: #66A7C3; }
   .icon.style2 {
-    color: #00E75D; }
+    color: #FFDB7F; }
   .icon.style3 {
-    color: #FF8700; }
+    color: #FFD25E; }
   .icon.style4 {
-    color: #0020E5; }
+    color: #FF987F; }
   .icon.style5 {
-    color: #FFB700; }
+    color: #FF7D5E; }
   @media screen and (max-width: 1680px) {
     .icon.major:before {
       font-size: 5.5rem; } }
@@ -2158,15 +2160,15 @@ table.alt tbody tr td {
     color: #ffffff;
     text-align: center; }
     .statistics li.style1 {
-      background-color: #009ee0; }
+      background-color: #66A7C3; }
     .statistics li.style2 {
-      background-color: #00E75D; }
+      background-color: #FFDB7F; }
     .statistics li.style3 {
-      background-color: #FF8700; }
+      background-color: #FFD25E; }
     .statistics li.style4 {
-      background-color: #0020E5; }
+      background-color: #FF987F; }
     .statistics li.style5 {
-      background-color: #FFB700; }
+      background-color: #FF7D5E; }
     .statistics li strong, .statistics li b {
       display: block;
       font-size: 2em;
@@ -2562,10 +2564,10 @@ table.alt tbody tr td {
     color: #636363; }
   #main header.major h2:after {
     background-color: #dddddd;
-    background-image: -moz-linear-gradient(90deg, #009ee0, #FF8700, #FFB700);
-    background-image: -webkit-linear-gradient(90deg, #009ee0, #FF8700, #FFB700);
-    background-image: -ms-linear-gradient(90deg, #009ee0, #FF8700, #FFB700);
-    background-image: linear-gradient(90deg, #009ee0, #FF8700, #FFB700); }
+    background-image: -moz-linear-gradient(90deg, #66A7C3, #FFD25E, #FF7D5E);
+    background-image: -webkit-linear-gradient(90deg, #66A7C3, #FFD25E, #FF7D5E);
+    background-image: -ms-linear-gradient(90deg, #66A7C3, #FFD25E, #FF7D5E);
+    background-image: linear-gradient(90deg, #66A7C3, #FFD25E, #FF7D5E); }
   #main table tbody tr {
     border-color: #dddddd; }
     #main table tbody tr:nth-child(2n + 1) {
