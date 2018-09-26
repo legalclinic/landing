@@ -187,7 +187,7 @@ img.fit {
 }
 
 #header {
-  padding: 1rem 2rem;
+  padding: 0rem 2rem;
   text-align: center;
   background-image: linear-gradient(-210deg, #eee 0%, white 100%);
 }
@@ -196,7 +196,6 @@ img.fit {
   position: absolute;
   top: 1.7rem;
   left: 2rem;
-  width: 100%;
   text-align: left;
 }
 
